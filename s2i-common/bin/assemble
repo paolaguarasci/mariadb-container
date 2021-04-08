@@ -11,3 +11,5 @@ mv /tmp/src/* ./ 2>/dev/null || true
 # Fix source directory permissions
 /usr/libexec/fix-permissions ./
 
+### My command
+echo testazzo
